@@ -1,7 +1,7 @@
 package filehandling;
 import java.io.*;
-import java.FileOutputStream;
-
+import java.io.FileOutputStream;
+// to write char in file in the ascii format cause write file have int parameter
 public class WriteDemo 
 {
     public static void main(String[] args)
